@@ -1,9 +1,13 @@
 # Research Proposal: Algorithmic OrderBook Liquidity and Market Impact Engine
 
 **Author**: Shivanshi Shukla
+
 **Institution/University**: University of Illinois at Chicago
+
 **Date**: 6/26/2026
+
 **Proposed Start Date**: 6/26/2026
+
 **Proposed Duration**: 1 and 1/2 month
 
 ## 1. Abstract
